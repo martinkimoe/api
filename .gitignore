@@ -38,3 +38,5 @@ api.cfg
 fmd.cfg
 
 lu-mir-zeeguu-credentials.json
+
+venv/

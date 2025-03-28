@@ -1,0 +1,1712 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "Sm0UJ2S7DjY13-gC7iaUUQoZuXk",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "r5wddBqOqh4z8UHDd6yFXT1m8mQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6y3J-2r-zE0"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-23T10:57:42Z",
+                "channelId": "UC49mJgwJTk7yHwDCrhWC_XA",
+                "title": "Camping",
+                "description": "While on a camping holiday, Bluey makes a new friend named, Jean-Luc; Bluey may not understand him, but they find a common ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6y3J-2r-zE0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6y3J-2r-zE0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6y3J-2r-zE0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bluey",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-23T10:57:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ae359iPawApy_i1IN34ilmpMZ9c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VlB9eb1N70Q"
+            },
+            "snippet": {
+                "publishedAt": "2025-01-29T20:36:36Z",
+                "channelId": "UCpRvsq8NLa5KGMqeNS5BmsA",
+                "title": "Do you want Jesus MORE THAN ANYTHING (Official Music Video)",
+                "description": "Do you want Jesus MORE THAN ANYTHING? We may start down a path saying, \"I'm doing this for you, Jesus,\" until we begin to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VlB9eb1N70Q/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VlB9eb1N70Q/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VlB9eb1N70Q/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Stephen McWhirter",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2025-01-29T20:36:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ywhFDXXOro08vGumFedRWrM8AGo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6UNpc3dC_rI"
+            },
+            "snippet": {
+                "publishedAt": "2012-06-29T22:12:03Z",
+                "channelId": "UCVCVm3mKpo1XgvNdO5ruXXQ",
+                "title": "The Delivery, Pt 1",
+                "description": "Pam's (Jenna Fischer) contractions begin but she and Jim (John Krasinski) are determined to wait it out as long as possible so ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6UNpc3dC_rI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6UNpc3dC_rI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6UNpc3dC_rI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Office",
+                "liveBroadcastContent": "none",
+                "publishTime": "2012-06-29T22:12:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xIGmU8WNhRNG7giYK9733y7kfu0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kz4KvN7syso"
+            },
+            "snippet": {
+                "publishedAt": "2015-04-13T03:00:01Z",
+                "channelId": "UC8vSjgnIHxiQgR8rW_wHd2A",
+                "title": "Trashy Town",
+                "description": "Hats off to Mr. Gilly, the always smiling, ever energetic trash man who dumps it in, smashes it down and drives around the Trashy ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kz4KvN7syso/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kz4KvN7syso/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kz4KvN7syso/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Scholastic Storybook Treasures",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-04-13T03:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "inrRzmcSCZeeU1o1ToCG2ff48Y4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lgsD_wSZ0hI"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-13T13:18:06Z",
+                "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+                "title": "DeepMind’s New AIs: The Future is Here!",
+                "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambdalabs.com/papers Guide for using DeepSeek on Lambda: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lgsD_wSZ0hI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lgsD_wSZ0hI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lgsD_wSZ0hI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Two Minute Papers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-13T13:18:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9BaN3ysBqC1eaYBHFAx4G6SuXY0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "apkFDsxDp0M"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-12T22:05:11Z",
+                "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
+                "title": "Columbia University protest organizer Mahmoud Khalil will remain detained after deportation hearing",
+                "description": "During a deportation hearing, a judge ordered that Columbia University protest organizer Mahmoud Khalil remain detained in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/apkFDsxDp0M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/apkFDsxDp0M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/apkFDsxDp0M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LiveNOW from FOX",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-12T22:05:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "u7-2MqatsN3wpVIfKh0-Z7U1oWY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sCWb0c2DGJc"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-13T12:51:28Z",
+                "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
+                "title": "Former Philippine president Duterte held at ICC detention centre in The Hague",
+                "description": "Former Philippine president Rodrigo Duterte - the first Asian former head of state to be indicted by the International Criminal Court ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sCWb0c2DGJc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sCWb0c2DGJc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sCWb0c2DGJc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CNA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-13T12:51:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HWfuRrADvsojpTYMBFU3V-Omm8c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7r_4LhorZ4E"
+            },
+            "snippet": {
+                "publishedAt": "2019-04-22T04:00:07Z",
+                "channelId": "UCXSyNV-KjwgepgjHsusJeLQ",
+                "title": "The Past Loves of Mary Jane",
+                "description": "A look back at the men who came and went in Mary Jane's life across the show's four seasons.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7r_4LhorZ4E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7r_4LhorZ4E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7r_4LhorZ4E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Being Mary Jane",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-04-22T04:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "A7GmL1BROvW3bqoaR6eI5nEB_-U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gO1zFmoEwZ4"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-12T21:00:35Z",
+                "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+                "title": "Inside Bradley Cooper As The First Gemstone | The Righteous Gemstones Season 4 | HBO",
+                "description": "From Mom's lips to God's ears. Danny McBride preaches exclusive insights to Bradley Cooper's big guest appearance in the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gO1zFmoEwZ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gO1zFmoEwZ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gO1zFmoEwZ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HBO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-12T21:00:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gsAsdX-7DhDyecUPH1_0OohkLsQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "H8RS-EHeyMo"
+            },
+            "snippet": {
+                "publishedAt": "2012-08-11T00:10:52Z",
+                "channelId": "UC-Q_qGCvkbRn9TmryOgSYMA",
+                "title": "The Venture Bros., Music Special -  From the Ladle to the Grave: The Shallow Gravy Story",
+                "description": "See the Venture Family as you've never seen them before: in an 11 minute documentary-style animated UNCENSORED special.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H8RS-EHeyMo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H8RS-EHeyMo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H8RS-EHeyMo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Venture Bros., Music Special",
+                "liveBroadcastContent": "none",
+                "publishTime": "2012-08-11T00:10:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "A6TE_kaeLP66wYqQloAGGbBadFU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "91ieYUd4R7M"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-13T12:45:00Z",
+                "channelId": "UChDKyKQ59fYz3JO2fl0Z6sg",
+                "title": "US investigators identify person of interest in missing student case",
+                "description": "More than a week after surveillance footage captured some of the last known images of American college student Sudiksha ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/91ieYUd4R7M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/91ieYUd4R7M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/91ieYUd4R7M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TODAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-13T12:45:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EdnAJAQNGB9_ee0jTT6VkXYpZuo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uFFSZu8SdDk"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-12T12:15:05Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "&#39;Colossal arrogance&#39;: Dem under fire for latest insult to Trump voters",
+                "description": "Rep. Claudia Tenney, R-N.Y., joined 'Fox & Friends' to discuss the House's passage of the GOP spending bill, Michigan Sen.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uFFSZu8SdDk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uFFSZu8SdDk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uFFSZu8SdDk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-12T12:15:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "T6uwPC9p_VAHorvxs25VNHBqvWE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xjymdO4p94k"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-13T08:01:02Z",
+                "channelId": "UCcCuqsgeizaUDNZWytOS4vA",
+                "title": "The Barbarians&#39; Red Balloon",
+                "description": "A Skeleton learns an important lesson after he gets bullied: sometimes it's good to have friends in high, barrel-carrying, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xjymdO4p94k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xjymdO4p94k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xjymdO4p94k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clash-A-Rama!",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-01-13T08:01:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "C6lf3-oisW7T1sP6MP02n40VnTQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cRyXsqA8m30"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-12T17:24:45Z",
+                "channelId": "UCJHAT3Uvv-g3I8H3GhHWV7w",
+                "title": "This Storm Just Took A Dramatic Turn…",
+                "description": "Get 40% off your first order with Trade at http://drinktrade.com/YALL A powerful storm system is rapidly developing across the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cRyXsqA8m30/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cRyXsqA8m30/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cRyXsqA8m30/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ryan Hall, Y'all",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-12T17:24:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rfignBBPL53df19LucFeQNHpbxs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DwIFeV0FoIc"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-13T10:00:12Z",
+                "channelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
+                "title": "Dagen McDowell: This should be illegal",
+                "description": "Economic Policy Innovation Center CEO Paul Winfree discusses how California is allegedly using a 'loophole' in Medicaid on ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DwIFeV0FoIc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DwIFeV0FoIc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DwIFeV0FoIc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox Business",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-13T10:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RmPhgXZzQI5hQrYIEGjqSDQlCno",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "b8ChW8zkxns"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-12T19:03:47Z",
+                "channelId": "UC-f2WBfSCZiu0bOBydjot3w",
+                "title": "That&#39;s It! We&#39;re Selling Yarnhub!",
+                "description": "Invest in Yarnhub and become a share holder https://www.picmiicrowdfunding.com/deal/yarnhub/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b8ChW8zkxns/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b8ChW8zkxns/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b8ChW8zkxns/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yarnhub",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-12T19:03:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4DxKa9UQBoYF62-GE5Rgvp6Wt04",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TlZ7rGjjDaM"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-13T12:30:26Z",
+                "channelId": "UCo5E9pEhK_9kWG7-5HHcyRg",
+                "title": "New Bridge Guy Video Released: Delphi Murders",
+                "description": "RichardAllen was convicted of killing #AbbyWilliams, 13, and #LibbyGerman, 14. A huge piece of evidence in the case was the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TlZ7rGjjDaM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TlZ7rGjjDaM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TlZ7rGjjDaM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "COURT TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-13T12:30:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "92ik0CZmehuYABs-VO7ETtD96gg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KmXRbJzM-dg"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-13T01:00:44Z",
+                "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
+                "title": "‘No strategy, no assessment, no plan’: State AGs sue Trump admin. over mass federal worker firings",
+                "description": "Democratic Colorado Attorney General Phil Weiser, one of the many state attorneys general suing the Trump administration over ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KmXRbJzM-dg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KmXRbJzM-dg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KmXRbJzM-dg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MSNBC",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-13T01:00:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "H0zdAiTYw8NYPyd7CSsEie38FlE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Hw0U0q90aD8"
+            },
+            "snippet": {
+                "publishedAt": "2015-04-24T07:53:19Z",
+                "channelId": "UCQGNGhpDq-HGBKaP4jfez5Q",
+                "title": "The Graduation Transmission",
+                "description": "Wolowitz questions his engineering abilities when he and Sheldon can't get a drone to fly. Meanwhile, a canceled flight nearly ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Hw0U0q90aD8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Hw0U0q90aD8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Hw0U0q90aD8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Big Bang Theory",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-04-24T07:53:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8nra0i84DYQG8oLLuEJ76jcyizE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Fx5iwDbX1Y8"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-12T11:30:10Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "Karoline Leavitt: Trump will not tolerate siding with &#39;radical Islamic terrorists&#39;",
+                "description": "White House press secretary Karoline Leavitt fires back at pro-Hamas sympathizers and an AP reporter's 'insulting' question ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Fx5iwDbX1Y8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Fx5iwDbX1Y8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Fx5iwDbX1Y8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-12T11:30:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "L-CsyHkjm6vdLm8MOOjl8nSLKkA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oF5LV10hcT0"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-13T14:01:02Z",
+                "channelId": "UCK7tptUDHh-RYDsdxO1-5QQ",
+                "title": "The Vietnamese City in the Middle of the U.S.-China Trade War | WSJ Center Point",
+                "description": "Haiphong, Vietnam's northern port city, saw a manufacturing boom after President Trump's 2018 tariffs on China, becoming a key ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oF5LV10hcT0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oF5LV10hcT0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oF5LV10hcT0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Wall Street Journal",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-13T14:01:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bxaDH8U_KTtX1KdEkUcNgksHKtc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YIi9cf6SLR4"
+            },
+            "snippet": {
+                "publishedAt": "2014-10-10T08:00:03Z",
+                "channelId": "UCOWnB4nPUKWjUs7e9_w5LPA",
+                "title": "Parks &amp; Wreck",
+                "description": "The guys cannonball into an uncomfortable poolside encounter and convince strangers to press send on their absurd e-mails.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YIi9cf6SLR4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YIi9cf6SLR4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YIi9cf6SLR4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Impractical Jokers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-10-10T08:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kqYkYn_7k7ygwCkuBQyaO8Pj_q0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qdpkmUmolW0"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-11T17:30:14Z",
+                "channelId": "UCK-0srt5hdY5m6Zos_NlJZg",
+                "title": "New Planet Found Orbiting Closest Single Star to Our Sun",
+                "description": "Head to https://www.odoo.com/r/Owq1 to start your business journey with Odoo today! Barnard's Star, one of the oldest stars in our ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qdpkmUmolW0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qdpkmUmolW0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qdpkmUmolW0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Secrets of the Universe",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-11T17:30:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MPY8S5lpYro4dYukPjPsH9EJW10",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DpP8W1Uc8Ro"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-12T16:15:01Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "Speaker Johnson: Chuck Schumer has a big decision to make",
+                "description": "House Speaker Mike Johnson, R-La., joined 'Fox & Friends' to discuss the passage of the GOP spending bill, what comes next for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DpP8W1Uc8Ro/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DpP8W1Uc8Ro/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DpP8W1Uc8Ro/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-12T16:15:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "r7x_J1fAUdq8mRp6gBdrxVZ4xX4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7JyQCn4_oLE"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-12T20:45:00Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "McEnany: This is insanity",
+                "description": "The 'Outnumbered' panel reacts to Bernie Sanders' 'crazy' admission, Sen. Elissa Slotkin's insult to Trump voters and Rosie ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7JyQCn4_oLE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7JyQCn4_oLE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7JyQCn4_oLE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-12T20:45:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "f3TYZWwMUb98LXd_FxfVaJalGYs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-nfL5Nrv6e0"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-13T11:30:00Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "&#39;SCHUMER SHUTDOWN&#39;: GOP senator roasts Dems&#39; budget &#39;tantrum&#39;",
+                "description": "Sen. Ashley Moody, R-Fla., on the looming possibility of a government shutdown and introducing the HELPER Act to help first ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-nfL5Nrv6e0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-nfL5Nrv6e0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-nfL5Nrv6e0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-13T11:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "U6Cyg8_PV9gYw747PLgI9Z6OZTQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "G0EaYVVzPJA"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-12T21:30:02Z",
+                "channelId": "UCvixJtaXuNdMPUGdOPcY8Ag",
+                "title": "Trump Press Secy BRUTALLY FACT-CHECKED in real time",
+                "description": "Incogni lets you control your personal data! Get 60% off their annual plan: http://incogni.com/pakman -- Karoline Leavitt, Donald ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G0EaYVVzPJA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G0EaYVVzPJA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G0EaYVVzPJA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "David Pakman Show",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-12T21:30:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "o6rOhJteRUknkBCxri4NF3zWZp4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-_2tO8moB-E"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-13T13:45:00Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "Peter Doocy: The Russians are ready to talk",
+                "description": "Fox News' Peter Doocy reports the latest on Secretary Marco Rubio's G7 trip to Canada and ceasefire talks between the U.S., ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-_2tO8moB-E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-_2tO8moB-E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-_2tO8moB-E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-13T13:45:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "atlwR0BJKxcdp6fET5O47UIUTd8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4XlI6B5-Sys"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-12T07:35:00Z",
+                "channelId": "UCMtFAi84ehTSYSE9XoHefig",
+                "title": "What&#39;s Going On Over There? - Norway&#39;s Ski Jump Scandal | Ancient English Soccer | Nessy Sighting",
+                "description": "Stephen Colbert scoured the globe to find the most important news from outside the United States in his international segment, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4XlI6B5-Sys/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4XlI6B5-Sys/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4XlI6B5-Sys/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Late Show with Stephen Colbert",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-12T07:35:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OOl3Bs0AL1tEMfly0Nfb79esSts",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CJHf82vaIrs"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-13T09:30:11Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "Sen. John Kennedy: Mr. Khalil ‘hates America’",
+                "description": "Sen. John Kennedy, R-La., discusses if pro-Hamas agitator Mahmoud Khalil's case concerns freedom of speech on 'The ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CJHf82vaIrs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CJHf82vaIrs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CJHf82vaIrs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-13T09:30:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CmHEq_OaxkE-0O7F6k25jFJXf6s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "umGs0_a-QuA"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-13T11:03:09Z",
+                "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
+                "title": "New York Times writer warns how &#39;Democracy Dies in Dumbness&#39;",
+                "description": "Canada on Wednesday announced new retaliatory trade duties on some $21 billion worth of U.S. goods, a response to Trump ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/umGs0_a-QuA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/umGs0_a-QuA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/umGs0_a-QuA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MSNBC",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-13T11:03:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5HRE1rp_uP4JbqbJr9VACUEHzbs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CxnqZ1OaAyg"
+            },
+            "snippet": {
+                "publishedAt": "2014-07-24T14:40:39Z",
+                "channelId": "UCj7NTgohUoSFkvgDN8z9M8w",
+                "title": "Inside The Divide: Episode 3, &quot;Facts are the Enemy&quot;",
+                "description": "Go inside \"Facts are the Enemy\" with the cast and crew behind The Divide Season 1.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CxnqZ1OaAyg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CxnqZ1OaAyg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CxnqZ1OaAyg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Divide",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-07-24T14:40:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uN3RwrGVsoDic24qXnQixIL7YZk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wYDoUmQDjKc"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-13T07:35:02Z",
+                "channelId": "UCMtFAi84ehTSYSE9XoHefig",
+                "title": "If You’re A Sociopath It’s A Good Line Of Work - “Black Bag” Star Michael Fassbender On The Spy Game",
+                "description": "He's not sure he would make a good spy but “Black Bag” star Michael Fassbender thinks he knows some of the qualities that are ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wYDoUmQDjKc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wYDoUmQDjKc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wYDoUmQDjKc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Late Show with Stephen Colbert",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-13T07:35:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FDYfCy92MeBQrOS4o1Q0cDlHZRw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "K-oBUS8HH-g"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-11T17:06:35Z",
+                "channelId": "UCPMdVVKDEUrbp3nH46sTZmg",
+                "title": "The Road Ahead | Autonomy | Rivian",
+                "description": "Our new Enhanced Highway Assist is just the beginning. RJ Scaringe, Rivian founder and CEO, rides with VP for Autonomy & AI, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K-oBUS8HH-g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K-oBUS8HH-g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K-oBUS8HH-g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rivian",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-11T17:06:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TT9bj5FcGxbUxBsAjR2Ae2kyTv8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8_B6gV6HEVY"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-12T15:15:00Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "Peter Doocy: Things are changing very quickly",
+                "description": "Fox News' Peter Doocy reports the latest on the Trump tariffs from the White House. #FoxNews Subscribe to Fox News!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8_B6gV6HEVY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8_B6gV6HEVY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8_B6gV6HEVY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-12T15:15:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WflTX3hL4uo8S2VHS4k74n6TlTQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "y2k5JKP5qgA"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-13T01:00:57Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "Laura Ingraham: This is good news",
+                "description": "Fox News host Laura Ingraham traces President Donald Trump's foreign economic stance to the 1980s on 'The Ingraham Angle.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y2k5JKP5qgA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y2k5JKP5qgA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y2k5JKP5qgA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-13T01:00:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "f2BuauxMCPPvIQya2lfLmp-1e4Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TA3pQpbVl1U"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-12T21:11:34Z",
+                "channelId": "UCueJOS3ZjWyTtRU9bnx9XFw",
+                "title": "Pastor Ricky Floyd dead, woman charged after shooting at Memphis bar",
+                "description": "Pastor Ricky Floyd dead, woman charged after shooting at Memphis bar.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TA3pQpbVl1U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TA3pQpbVl1U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TA3pQpbVl1U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WREG News Channel 3",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-12T21:11:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_cgDlrLxbL9Sk6NstVkEYBMBL9Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SUGlXjXFUJI"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-12T20:03:00Z",
+                "channelId": "UCKfak8fBm_Lhy4eX9UKxEpA",
+                "title": "Even Norway FURIOUS! Trump Didn’t Expect THIS",
+                "description": "Trump's Oval Office clash with Ukraine's Zelenskyy sent shockwaves worldwide, leading to an abrupt halt in U.S. military aid.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SUGlXjXFUJI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SUGlXjXFUJI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SUGlXjXFUJI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Military Show",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-12T20:03:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "i2V29ymj58N3MaBzNCsu5KXFNfo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "G_z3NRd_CZ8"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-13T01:20:09Z",
+                "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
+                "title": "RFK Jr. promotes ‘MAHA fries’ as measles outbreak grows",
+                "description": "RFK Jr., the man in charge of American health, praised a fast food restaurant's “healthy” fries all while continuing to undermine the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G_z3NRd_CZ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G_z3NRd_CZ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G_z3NRd_CZ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MSNBC",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-13T01:20:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AU-LWSO9REBARihQZxdVNZupomo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZZdiFir_kNU"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-11T01:00:23Z",
+                "channelId": "UCVTyTA7-g9nopHeHbeuvpRA",
+                "title": "Trump Won&#39;t Rule Out Recession as Markets Plunge; Musk and Rubio Clash in White House: A Closer Look",
+                "description": "Seth takes a closer look at the markets falling dramatically as Donald Trump refuses to rule out a recession amid rising prices and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZZdiFir_kNU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZZdiFir_kNU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZZdiFir_kNU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Late Night with Seth Meyers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-11T01:00:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xL0Hxg0NT2OfZc4p1pXXVO7m5ek",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xKDPrsMaZU8"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-12T05:10:09Z",
+                "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
+                "title": "House Republicans literally alter time to avoid responsibility for Trump wrecking the economy",
+                "description": "Rachel Maddow explains how House Republicans had the power to take away Donald Trump's ability to casually throw around ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xKDPrsMaZU8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xKDPrsMaZU8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xKDPrsMaZU8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MSNBC",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-12T05:10:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dr9f_sFdEGzuTMY-1rg6dZX1ndg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TKqCWwxO31g"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-12T18:25:18Z",
+                "channelId": "UCx6xmIOXqnQ79ZI6VVpARXw",
+                "title": "Driving From Switzerland To The UK On One Tank | Top Gear Classic",
+                "description": "That time when Jeremy, Richard and James were challenged to drive from the heart of Switzerland to the north-west coast of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TKqCWwxO31g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TKqCWwxO31g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TKqCWwxO31g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Top Gear Classic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-12T18:25:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VXSSdWChFhElkjWRwe5_c7B2_Xs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u6hXqLrnHIo"
+            },
+            "snippet": {
+                "publishedAt": "2015-04-13T03:00:01Z",
+                "channelId": "UC8vSjgnIHxiQgR8rW_wHd2A",
+                "title": "Wallace&#39;s Lists",
+                "description": "Wallace, a mouse, can do almost anything, as long as he has a list. Then he meets a new neighbor, Albert, who loves music and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u6hXqLrnHIo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u6hXqLrnHIo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u6hXqLrnHIo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Scholastic Storybook Treasures",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-04-13T03:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FqzpqjTd4tgP69n2OS99bR80MhY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6mFpn8BJLV4"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-13T05:40:28Z",
+                "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
+                "title": "Outrage and exposure halts Trump&#39;s plans for Social Security service cuts",
+                "description": "Rachel Maddow shares video of Rep. John Larson channeling the outrage of his constituents at the anticipation that Donald ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6mFpn8BJLV4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6mFpn8BJLV4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6mFpn8BJLV4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MSNBC",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-13T05:40:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "T8fPfUc-hYGS7VUN39BXydHtVrE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u8lzT5SKQsU"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-13T13:49:25Z",
+                "channelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
+                "title": "Bartiromo: We have been talking about this for ‘years,’ and now it’s happening",
+                "description": "Former Reagan National Security Council senior director Roger Robinson reacts to President Donald Trump's America First ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u8lzT5SKQsU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u8lzT5SKQsU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u8lzT5SKQsU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox Business",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-13T13:49:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "26USZGQjOLZnH-wFnOrCGrnBaHM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "I45_tG2az_k"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-12T03:30:14Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "Gutfeld: Why do Democrats back some transitions and not others?",
+                "description": "Fox News host Greg Gutfeld and the 'Gutfeld!' panel discuss protests against Elon Musk and the Department of Government ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I45_tG2az_k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I45_tG2az_k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I45_tG2az_k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-12T03:30:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GaQN4hP50WkFH8N0EBlw25ZcZ2U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vhXeKAMM__o"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-12T08:15:05Z",
+                "channelId": "UC55ODQSvARtgSyc8ThfiepQ",
+                "title": "Gemma 3 - The NEW Gemma Family Members Have Arrived!!!",
+                "description": "In this video, I look at the release of the new Gemma 3 models, which come in four different flavors: a 1B, a 4B, a 12B, and the new ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vhXeKAMM__o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vhXeKAMM__o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vhXeKAMM__o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sam Witteveen",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-12T08:15:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Id4DiEBME7mM9Aat4PJQnwNjrSI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SLHlOt7TfbU"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-13T13:00:42Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "Newt Gingrich: Dems are ‘enraged’ and have ‘no solutions&#39;",
+                "description": "Former House Speaker Newt Gingrich shares how the left is resorting to hateful tactics to protest President Donald Trump and his ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SLHlOt7TfbU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SLHlOt7TfbU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SLHlOt7TfbU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-13T13:00:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "y8xkW7mLxXUfyus-tzRP0xNro8g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-TjiUKKfL9s"
+            },
+            "snippet": {
+                "publishedAt": "2013-07-12T04:30:47Z",
+                "channelId": "UCnMw3ORcCWZ-rzc8E5v_Dng",
+                "title": "Demise of the Planet of the Apes/Celebrity Ape-prentice",
+                "description": "It's an all-ape Ape-isode! See how Kevin James brought about the ape apocalypse. Then see how Donald Chimp will run the new ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-TjiUKKfL9s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-TjiUKKfL9s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-TjiUKKfL9s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MAD",
+                "liveBroadcastContent": "none",
+                "publishTime": "2013-07-12T04:30:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zwxWHERp266vvxS2-KkLkjko8m8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GdsoQ_1ehCQ"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-13T13:36:57Z",
+                "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
+                "title": "Trump threatens 200 percent tariff on EU booze over tax on U.S. whiskey",
+                "description": "President Trump is threatening to place additional tariffs on European alcohol if the EU does not lift its 50 percent tariff on U.S. ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GdsoQ_1ehCQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GdsoQ_1ehCQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GdsoQ_1ehCQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MSNBC",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-13T13:36:57Z"
+            }
+        }
+    ]
+}
