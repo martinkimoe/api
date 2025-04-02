@@ -14,6 +14,7 @@ services:
     ports:
       - "3306:3306"
     restart: unless-stopped
+    platform: linux/amd64
 
   # main db
   fmd_mysql:
@@ -28,7 +29,7 @@ services:
     networks:
       - zeeguu_backend
     restart: unless-stopped
-
+    platform: linux/amd64
   elasticsearch_v8:
     image: elasticsearch:8.12.2
     platform: linux/amd64
