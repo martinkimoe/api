@@ -1,15 +1,12 @@
 from zeeguu.core.semantic_search import (
     articles_like_this_semantic,
-    add_topics_based_on_semantic_hood_search,
     articles_like_this_tfidf,
+    get_article_w_topics_based_on_text_similarity,
     find_articles_based_on_text,
 )
 
 from zeeguu.core.model.article import Article
 from zeeguu.core.model.url_keyword import UrlKeyword
-
-from zeeguu.core.elastic.settings import ES_CONN_STRING
-from elasticsearch import Elasticsearch
 from collections import Counter
 
 from zeeguu.api.app import create_app
@@ -36,7 +33,9 @@ def search_similar_to_article(article_id):
 
     a_found, hits = articles_like_this_semantic(article_to_search)
     print("------------------------------------------------")
-    a_found_t, hits_t = add_topics_based_on_semantic_hood_search(article_to_search)
+    a_found_t, hits_t = get_article_w_topics_based_on_text_similarity(
+        article_to_search.get_content(), filter_ids=[article_to_search.id]
+    )
     a_found_lt, hits_lt = articles_like_this_tfidf(article_to_search)
 
     print("Doc Searched: ", doc_to_search)
@@ -78,12 +77,12 @@ def search_similar_to_article(article_id):
     print("Classification: ", topics_key_counter.most_common(1)[0])
     print()
     print("Title: ", article_to_search.title[:100])
-    print("Content: ", article_to_search.content[:100])
+    print("Content: ", article_to_search.get_content()[:100])
     print()
     print("Top match content (sim): ")
-    print(a_found_t[0].content[:100])
+    print(a_found_t[0].get_content()[:100])
     print("Top match content (sim, same lang): ")
-    print(a_found[0].content[:100])
+    print(a_found[0].get_content()[:100])
 
 
 def search_similar_to_keyword(keyword):
