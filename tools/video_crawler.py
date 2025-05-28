@@ -9,7 +9,7 @@ app = create_app()
 app.app_context().push()
 
 start = datetime.now()
-crawl(3)
+crawl(50)
 end = datetime.now()
 log(f"done at: {end}")
 log(f"total duration: {end - start}")

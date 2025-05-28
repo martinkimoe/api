@@ -204,8 +204,8 @@ class Video(db.Model):
             session.rollback()
 
         # Index video if it is not broken
-        if new_video.broken == 0:
-            index_video(new_video, session)
+        # if new_video.broken == 0:
+        #     index_video(new_video, session)
 
         return new_video
 

@@ -162,7 +162,7 @@ def fetch_video_info(video_unique_key, lang):
         video_info["broken"] = NOT_IN_EXPECTED_LANGUAGE
         return video_info
 
-    captions = get_captions_from_json(video_unique_key, lang)
+    captions = get_captions_with_yttapi(video_unique_key, lang)
     if captions is None:
         print(f"Could not fetch captions for video {video_unique_key} in {lang}")
         video_info["broken"] = NO_CAPTIONS_AVAILABLE
@@ -182,23 +182,10 @@ def get_captions_with_yttapi(video_unique_key, lang):
         transcript = transcript_list.find_manually_created_transcript([lang])
 
         transcript_data = transcript.fetch()
-        transcript_data = transcript.fetch()
 
         caption_list = []
         full_text = []
-        caption_list = []
-        full_text = []
 
-        for caption in transcript_data:
-            clean_text = text_cleaner(caption.text)
-            caption_list.append(
-                {
-                    "time_start": caption.start * 1000,
-                    "time_end": (caption.start + caption.duration) * 1000,
-                    "text": clean_text,
-                }
-            )
-            full_text.append(clean_text)
         for caption in transcript_data:
             clean_text = text_cleaner(caption.text)
             caption_list.append(
